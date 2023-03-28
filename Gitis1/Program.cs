@@ -8,6 +8,7 @@
             Console.WriteLine("Hello, World! again");
             Console.WriteLine("Commit 4");
             Console.WriteLine("Commit 5");
+            Console.WriteLine("Feature 2 branch gjorde en ändring. Klockan 11:55.");
         }
     }
 }
