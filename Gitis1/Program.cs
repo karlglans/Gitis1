@@ -9,5 +9,10 @@
             Console.WriteLine("Commit 4");
             Console.WriteLine("Commit 5");
         }
+
+        static void SomeWork()
+        {
+            Console.WriteLine("Lade till lite kod från Feature 2 branchen. ");
+        }
     }
 }
