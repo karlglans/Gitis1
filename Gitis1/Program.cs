@@ -18,5 +18,10 @@
         {
             Console.WriteLine("Lade till lite kod från Feature 2 branchen. ");
         }
+
+        static void SomeWork2()
+        {
+            Console.WriteLine("Added by MergeBranch 12:10");
+        }
     }
 }
