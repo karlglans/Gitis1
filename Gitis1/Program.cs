@@ -31,7 +31,7 @@
             Console.WriteLine("Rebase branch C3");
             Console.WriteLine("Rebase branch C4");
 
-            Console.WriteLine("Rebase2 C2");
+            Console.WriteLine("Rebase2 C3");
         }
     }
 }
