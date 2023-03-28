@@ -26,6 +26,10 @@
             Console.WriteLine("Added by MergeBranch 12:10");
             Console.WriteLine("Added by MergeBranch C2");
             Console.WriteLine("Added by MergeBranch C3");
+            Console.WriteLine("Rebase branch C1");
+            Console.WriteLine("Rebase branch C2");
+            Console.WriteLine("Rebase branch C3");
+            Console.WriteLine("Rebase branch C4");
         }
     }
 }
