@@ -13,6 +13,7 @@
             Console.WriteLine("Feature 2 branch gjorde en ändring. Klockan 11:56.");
             Console.WriteLine("Feature 2 branch gjorde en ändring. Klockan 11:58.");
             Console.WriteLine("Mastercommit 2 !");
+            Console.WriteLine("Mastercommit 3 !");
         }
 
         static void SomeWork()
